@@ -6,6 +6,7 @@ public class SeleniumTest {
 	@Test
 	public void sel() {
 		System.out.println("Selenium");
+		System.out.println("Git push test");
 	}
 	
 	@Test
