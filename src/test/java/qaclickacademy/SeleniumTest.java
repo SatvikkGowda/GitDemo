@@ -7,6 +7,7 @@ public class SeleniumTest {
 	public void sel() {
 		System.out.println("Selenium");
 		System.out.println("Git push test");
+		System.out.println("new branch");
 	}
 	
 	@Test
